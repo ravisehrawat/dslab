@@ -45,7 +45,7 @@ int front = 0;
 
 }
 
- main()
+ void main()
  {
 
 
